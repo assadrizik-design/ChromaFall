@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <g transform="translate(0, -5)">
+    <!-- Top Left (Cyan) -->
+    <rect x="15" y="15" width="32" height="32" rx="8" fill="#00f2fe" />
+    <!-- Top Right (Blue) -->
+    <rect x="53" y="15" width="32" height="32" rx="8" fill="#4facfe" />
+    <!-- Bottom Left (Pink) -->
+    <rect x="15" y="53" width="32" height="32" rx="8" fill="#f093fb" />
+    <!-- Bottom Right (Red/Pink, slightly offset falling) -->
+    <rect x="53" y="65" width="32" height="32" rx="8" fill="#f5576c" />
+  </g>
+</svg>
